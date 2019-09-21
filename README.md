@@ -16,7 +16,8 @@ Libraries and other stuff probably in use:
 * [Redux](https://redux.js.org/)
 * [Material-UI](https://material-ui.com/)
 * [Materialize CSS](https://materializecss.com/)
-<br/>
+
+
 * [Yarn](https://yarnpkg.com/lang/en/)
 * [Redux DevTools extension](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/)
 
