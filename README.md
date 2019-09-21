@@ -19,3 +19,10 @@ Libraries and other stuff probably in use:
 * [Yarn](https://yarnpkg.com/lang/en/)
 * [Redux DevTools extension](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/)
 
+
+Commands used to initialize:
+* yarn create react-app gf-app
+* cd gf-app
+* yarn add react-redux
+* yarn add @material-ui/core
+* yarn add materialize-css
